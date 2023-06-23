@@ -15,3 +15,9 @@ Example: .upper()
     def __init__(self, arguments):
         pass
 
+4. Inheritance
+
+5. Class Attributes
+Class Attributes are attributes that are specific to a class, not to an instance or object of that class.
+
+6. Static Method
