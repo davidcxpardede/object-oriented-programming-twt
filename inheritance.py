@@ -80,5 +80,7 @@ f = Fish("Pardede", 23)
 f.show()
 f.speak()
 
+# Inheritance is useful for defining Classes that has similar attributes without retyping numerous, exactly same, lines of codes, which in turn can improve readability and efficiency of the code.
+
         
     
